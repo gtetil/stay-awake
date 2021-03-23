@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Python38-32\python.exe" "C:\Users\gtetil\Documents\Projects\stay-awake\stay_awake.py"
